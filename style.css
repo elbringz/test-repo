@@ -1,0 +1,13 @@
+h1 {
+    text-align:center;
+    color: blueviolet;
+    border: 5px solid black;
+    background-color: aqua;
+}
+p {
+    text-align: center;
+}
+div {
+    text-align: center;
+    size: 400px;
+}
